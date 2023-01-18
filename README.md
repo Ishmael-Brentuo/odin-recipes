@@ -1,1 +1,2 @@
 # odin-recipes
+My first website project with the odin projects as a free tutorial hands on experience gain with the family. It must be really exciting for me to have a solid career path now, so am definetly going to give it all my best to make this website a fastastic experience to remember. Lets start now!
